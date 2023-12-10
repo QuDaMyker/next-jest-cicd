@@ -1,8 +1,5 @@
 
-import 'server-only'
-export const metadata = {
-   title: 'App Router',
-  }
+
 type Params = {
   params: {
     slug: string
